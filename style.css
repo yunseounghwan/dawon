@@ -1,0 +1,26 @@
+fieldset {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 920px;
+}
+
+legend {
+    font-family: 'SDSamliphopangche_Outline';
+    text-align: center;
+    font-size: 40px;
+}
+
+@font-face {
+    font-family: 'SDSamliphopangche_Outline';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/SDSamliphopangche_Outline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.container {
+    background-image: url(KakaoTalk_20251203_232009744.jpg);
+    width: 400px;
+    height: 600px;
+    background-size: cover;
+}
